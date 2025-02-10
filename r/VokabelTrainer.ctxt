@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=VokabelTrainer
+comment1.params=
+comment1.target=VokabelTrainer()
+comment2.params=karte
+comment2.target=void\ hinzufuegenLernkarte(Lernkarte)
+comment3.params=
+comment3.target=void\ anzeigenAlleKarten()
+numComments=4
