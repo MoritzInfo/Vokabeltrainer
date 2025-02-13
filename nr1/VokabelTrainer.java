@@ -108,4 +108,5 @@ public class VokabelTrainer
         
         
     }
+    public void abfragen() //
 }
