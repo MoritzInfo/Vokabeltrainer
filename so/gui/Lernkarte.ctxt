@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Lernkarte
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ lernkarte.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=vokabel\ loesung\ kategorie
+comment1.target=Lernkarte(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getVokabel()
+comment3.params=
+comment3.target=java.lang.String\ getLoesung()
+comment4.params=
+comment4.target=java.lang.String\ getKategorie()
+comment5.params=
+comment5.target=void\ anzeigen()
+numComments=6
